@@ -1,0 +1,78 @@
+.quiz_container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+}
+
+.btn-group {
+    width: 100%;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.btn {
+    width: 100% !important;
+    text-align: left;
+    background-color: unset;
+    color: black;
+}
+
+.dropdown-menu {
+    width: 100% !important;
+    text-align: left;
+}
+
+.dropdown-menu :last-child {
+    padding: 8px 8px 8px 25px !important;
+}
+
+.dropdown-item {
+    width: 100% !important;
+}
+
+.dropdown-item:hover {
+    background-color: #f57243;
+}
+
+.list {
+    width: 100% !important;
+    border: 1px solid #9797a6;
+
+}
+
+.list :first-child {
+    display: flex;
+}
+
+.question {
+    padding: 30px 20px 20px 20px;
+    margin: 0 20px;
+}
+
+.options {
+    padding: 20px;
+    margin: 0 20px;
+}
+
+.btn-container {
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn-container .btn {
+    margin: 10px;
+}
+
+span.show {
+    padding: 30px 20px 20px 20px;
+    color:red;
+}
+
+span.hide {
+    display: none;
+}
+
+.submit {
+    background-color: #00b549;
+}

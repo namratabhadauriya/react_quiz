@@ -1,0 +1,37 @@
+{
+    "quiz": [
+        {
+            "question": "Which one is correct team name in NBA?",
+            "options": [
+                "New York Bulls",
+                "Los Angeles Kings",
+                "Golden State Warriros",
+                "Huston Rocket"
+            ],
+            "answer": "Huston Rocket",
+            "select": ""
+        },
+        {
+            "question": "Which ne among the following is color name?",
+            "options": [
+                "Red",
+                "ddsd",
+                "sdsdsd",
+                "sss"
+            ],
+            "answer": "Red",
+            "select": ""
+        },
+        {
+            "question": "Which one among the following is an animal?",
+            "options": [
+                "Cat",
+                "dsd",
+                "sds",
+                "Huston"
+            ],
+            "answer": "Cat",
+            "select": ""
+        }
+    ]
+}
